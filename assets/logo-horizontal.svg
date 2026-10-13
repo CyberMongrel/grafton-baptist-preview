@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 100" role="img" aria-label="Grafton Baptist Church">
-  <g transform="translate(8 10)" fill="none" stroke="#b11f4b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(8 10)" fill="none" stroke="#355e48" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M9 46V26L32 6l23 20v20M32 22v27M22 32h20M8 56c8-6 16-6 24 0s16 6 24 0M8 66c8-6 16-6 24 0s16 6 24 0"/>
   </g>
-  <g fill="#242424" font-family="Segoe UI,Arial,sans-serif">
+  <g fill="#1c2a3a" font-family="Segoe UI,Arial,sans-serif">
     <text x="96" y="55" font-size="47" font-weight="600" letter-spacing="-2.5">Grafton</text>
     <text x="99" y="79" font-size="14" font-weight="600" letter-spacing="4.4">BAPTIST CHURCH</text>
   </g>

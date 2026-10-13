@@ -3,7 +3,7 @@ import './sermons.js';
 
 const toggle = document.querySelector('.nav-toggle');
 const nav = document.getElementById('primary-nav');
-const desktop = window.matchMedia('(min-width: 1081px)');
+const desktop = window.matchMedia('(min-width: 1181px)');
 
 function closeMenu(returnFocus = false) {
   nav.classList.remove('is-open');
@@ -25,6 +25,9 @@ document.addEventListener('click', event => {
   if (!event.target.closest('.navigation')) closeMenu();
 });
 desktop.addEventListener('change', () => closeMenu());
+document.addEventListener('focusin', event => {
+  if (!event.target.closest('.navigation')) closeMenu();
+});
 
 const themeToggle = document.querySelector('.theme-toggle');
 function propagateTheme() {
