@@ -1,0 +1,71 @@
+name,category,file,width,height,pngWidth,description
+Grafton Baptist Church / symbol / primary,logo,logos/gbc-symbol-primary,256,256,1800,"Standalone mark; sanctuary wall, pulpit face and merchandise"
+Grafton Baptist Church / symbol / forest,logo,logos/gbc-symbol-forest,256,256,1800,"Standalone mark; sanctuary wall, pulpit face and merchandise"
+Grafton Baptist Church / symbol / navy,logo,logos/gbc-symbol-navy,256,256,1800,"Standalone mark; sanctuary wall, pulpit face and merchandise"
+Grafton Baptist Church / symbol / black,logo,logos/gbc-symbol-black,256,256,1800,"Standalone mark; sanctuary wall, pulpit face and merchandise"
+Grafton Baptist Church / symbol / white,logo,logos/gbc-symbol-white,256,256,1800,"Standalone mark; sanctuary wall, pulpit face and merchandise"
+Grafton Baptist Church / symbol / reversed,logo,logos/gbc-symbol-reversed,256,256,1800,"Standalone mark; sanctuary wall, pulpit face and merchandise"
+Grafton Baptist Church / micro / primary,logo,logos/gbc-micro-primary,64,64,512,Simplified mark; favicon and very small digital use
+Grafton Baptist Church / micro / forest,logo,logos/gbc-micro-forest,64,64,512,Simplified mark; favicon and very small digital use
+Grafton Baptist Church / micro / navy,logo,logos/gbc-micro-navy,64,64,512,Simplified mark; favicon and very small digital use
+Grafton Baptist Church / micro / black,logo,logos/gbc-micro-black,64,64,512,Simplified mark; favicon and very small digital use
+Grafton Baptist Church / micro / white,logo,logos/gbc-micro-white,64,64,512,Simplified mark; favicon and very small digital use
+Grafton Baptist Church / micro / reversed,logo,logos/gbc-micro-reversed,64,64,512,Simplified mark; favicon and very small digital use
+Grafton Baptist Church / horizontal / primary,logo,logos/gbc-horizontal-primary,1080,260,1800,"Primary signature; website, letterhead and general signage"
+Grafton Baptist Church / horizontal / forest,logo,logos/gbc-horizontal-forest,1080,260,1800,"Primary signature; website, letterhead and general signage"
+Grafton Baptist Church / horizontal / navy,logo,logos/gbc-horizontal-navy,1080,260,1800,"Primary signature; website, letterhead and general signage"
+Grafton Baptist Church / horizontal / black,logo,logos/gbc-horizontal-black,1080,260,1800,"Primary signature; website, letterhead and general signage"
+Grafton Baptist Church / horizontal / white,logo,logos/gbc-horizontal-white,1080,260,1800,"Primary signature; website, letterhead and general signage"
+Grafton Baptist Church / horizontal / reversed,logo,logos/gbc-horizontal-reversed,1080,260,1800,"Primary signature; website, letterhead and general signage"
+Grafton Baptist Church / compact / primary,logo,logos/gbc-compact-primary,800,300,1800,Compact two-line name; doorway and narrow signboards
+Grafton Baptist Church / compact / forest,logo,logos/gbc-compact-forest,800,300,1800,Compact two-line name; doorway and narrow signboards
+Grafton Baptist Church / compact / navy,logo,logos/gbc-compact-navy,800,300,1800,Compact two-line name; doorway and narrow signboards
+Grafton Baptist Church / compact / black,logo,logos/gbc-compact-black,800,300,1800,Compact two-line name; doorway and narrow signboards
+Grafton Baptist Church / compact / white,logo,logos/gbc-compact-white,800,300,1800,Compact two-line name; doorway and narrow signboards
+Grafton Baptist Church / compact / reversed,logo,logos/gbc-compact-reversed,800,300,1800,Compact two-line name; doorway and narrow signboards
+Grafton Baptist Church / stacked / primary,logo,logos/gbc-stacked-primary,640,600,1800,Centred signature; entrance panels and portrait formats
+Grafton Baptist Church / stacked / forest,logo,logos/gbc-stacked-forest,640,600,1800,Centred signature; entrance panels and portrait formats
+Grafton Baptist Church / stacked / navy,logo,logos/gbc-stacked-navy,640,600,1800,Centred signature; entrance panels and portrait formats
+Grafton Baptist Church / stacked / black,logo,logos/gbc-stacked-black,640,600,1800,Centred signature; entrance panels and portrait formats
+Grafton Baptist Church / stacked / white,logo,logos/gbc-stacked-white,640,600,1800,Centred signature; entrance panels and portrait formats
+Grafton Baptist Church / stacked / reversed,logo,logos/gbc-stacked-reversed,640,600,1800,Centred signature; entrance panels and portrait formats
+Grafton Baptist Church / fascia / primary,logo,logos/gbc-fascia-primary,1800,260,2400,Single-line full name; long external building fascia
+Grafton Baptist Church / fascia / forest,logo,logos/gbc-fascia-forest,1800,260,2400,Single-line full name; long external building fascia
+Grafton Baptist Church / fascia / navy,logo,logos/gbc-fascia-navy,1800,260,2400,Single-line full name; long external building fascia
+Grafton Baptist Church / fascia / black,logo,logos/gbc-fascia-black,1800,260,2400,Single-line full name; long external building fascia
+Grafton Baptist Church / fascia / white,logo,logos/gbc-fascia-white,1800,260,2400,Single-line full name; long external building fascia
+Grafton Baptist Church / fascia / reversed,logo,logos/gbc-fascia-reversed,1800,260,2400,Single-line full name; long external building fascia
+Grafton Baptist Church / roundel / primary,logo,logos/gbc-roundel-primary,400,400,1800,"Contained symbol; avatar, sticker and circular signage"
+Grafton Baptist Church / roundel / forest,logo,logos/gbc-roundel-forest,400,400,1800,"Contained symbol; avatar, sticker and circular signage"
+Grafton Baptist Church / roundel / navy,logo,logos/gbc-roundel-navy,400,400,1800,"Contained symbol; avatar, sticker and circular signage"
+Grafton Baptist Church / roundel / black,logo,logos/gbc-roundel-black,400,400,1800,"Contained symbol; avatar, sticker and circular signage"
+Grafton Baptist Church / roundel / white,logo,logos/gbc-roundel-white,400,400,1800,"Contained symbol; avatar, sticker and circular signage"
+Grafton Baptist Church / roundel / reversed,logo,logos/gbc-roundel-reversed,400,400,1800,"Contained symbol; avatar, sticker and circular signage"
+Entrance / over-door panel,application,signage/entrance-panel,1600,650,1600,Proportion 32:13. Name and welcome only; no changing service times.
+Long exterior fascia,application,signage/fascia-panel,2400,440,3600,Proportion 60:11. Full name on one line for a long wall or fascia.
+Sanctuary / above-pulpit signature,application,signage/sanctuary-wall,1000,1000,1600,Centred mark with optional small identifier. Transparent background.
+Pulpit face / symbol only,application,signage/pulpit-face,500,620,1600,"Quiet, simplified application with no small lettering. Transparent background."
+Roadside / portrait panel,application,signage/roadside-panel,900,1500,1600,Proportion 3:5. Address from supplied church material. Installation position needs approval.
+Wayfinding / entrance left,application,signage/wayfinding-left,1500,440,1600,Select direction only after a site walk. Never mirror the logo itself.
+Wayfinding / entrance right,application,signage/wayfinding-right,1500,440,1600,Select direction only after a site walk. Never mirror the logo itself.
+Community Space / endorsed ministry,application,signage/community-space-panel,1600,660,1600,Church identity retained without creating an unrelated sub-brand.
+Social avatar / navy,application,digital/avatar-navy,1080,1080,1080,"Square with circular crop safety. Use symbol, never tiny full church name."
+Social avatar / cream,application,digital/avatar-cream,1080,1080,1080,"Square with circular crop safety. Use symbol, never tiny full church name."
+Sermon podcast cover,application,digital/sermon-podcast-cover,3000,3000,3000,"3000 x 3000 RGB cover, no platform logos or fabricated episode details."
+Projection / holding slide,application,digital/presentation-holding-slide,1920,1080,1920,16:9 welcome slide; restrained lighting and no moving elements.
+Video / transparent lower third,application,digital/video-lower-third,1920,300,1920,1920px transparent PNG and vector source. Church identification only.
+Email signature / logo only,application,digital/email-signature-logo,720,280,1440,Use displayed width 260-360px. Add live contact text separately for accessibility.
+Letterhead / A4 proportion,application,print/letterhead,794,1123,1600,Scale PDF to A4 at print. Blank correspondence area; no invented email or phone.
+Welcome or business card / front,application,print/card-front,1050,600,1600,"Proportion 7:4. RGB concept; printer supplies final trim, bleed and colour profile."
+Welcome or business card / back,application,print/card-back,1050,600,1600,"No time, website, QR code or email until operational details are confirmed."
+Over the door,mockup,applications/01-over-the-door,1600,1000,1600,"Illustrative setting, not a measured representation of the church."
+Above the pulpit,mockup,applications/02-above-the-pulpit,1600,1000,1600,"Illustrative setting, not a measured representation of the church."
+Across the building,mockup,applications/03-building-fascia,1600,1000,1600,"Illustrative setting, not a measured representation of the church."
+Street identification,mockup,applications/04-street-identification,1600,1000,1600,"Illustrative setting, not a measured representation of the church."
+Finding the entrance,mockup,applications/05-wayfinding,1600,1000,1600,"Illustrative setting, not a measured representation of the church."
+Digital identity,mockup,applications/06-digital-family,1600,1000,1600,"Illustrative setting, not a measured representation of the church."
+Corner Cross / identity concept,board,boards/01-concept,1800,1240,2400,
+Corner Cross / complete logo family,board,boards/02-logo-family,1800,1640,2400,
+Corner Cross / geometry and usage,board,boards/03-construction,1800,1200,2400,
+Colour and minimum-size references,board,boards/04-colour-and-size,1800,1260,2400,
+Production handoff and use-case selector,board,boards/05-production-handoff,1800,1320,2400,
