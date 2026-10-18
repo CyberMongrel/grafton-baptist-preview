@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Grafton Baptist Church / symbol / primary",
+    "category": "logo",
+    "file": "logos/gbc-symbol-primary",
+    "width": 256,
+    "height": 256,
+    "pngWidth": 1800,
+    "description": "Standalone mark; sanctuary wall, pulpit face and merchandise"
+  },
+  {
+    "name": "Grafton Baptist Church / symbol / forest",
+    "category": "logo",
+    "file": "logos/gbc-symbol-forest",
+    "width": 256,
+    "height": 256,
+    "pngWidth": 1800,
+    "description": "Standalone mark; sanctuary wall, pulpit face and merchandise"
+  },
+  {
+    "name": "Grafton Baptist Church / symbol / navy",
+    "category": "logo",
+    "file": "logos/gbc-symbol-navy",
+    "width": 256,
+    "height": 256,
+    "pngWidth": 1800,
+    "description": "Standalone mark; sanctuary wall, pulpit face and merchandise"
+  },
+  {
+    "name": "Grafton Baptist Church / symbol / black",
+    "category": "logo",
+    "file": "logos/gbc-symbol-black",
+    "width": 256,
+    "height": 256,
+    "pngWidth": 1800,
+    "description": "Standalone mark; sanctuary wall, pulpit face and merchandise"
+  },
+  {
+    "name": "Grafton Baptist Church / symbol / white",
+    "category": "logo",
+    "file": "logos/gbc-symbol-white",
+    "width": 256,
+    "height": 256,
+    "pngWidth": 1800,
+    "description": "Standalone mark; sanctuary wall, pulpit face and merchandise"
+  },
+  {
+    "name": "Grafton Baptist Church / symbol / reversed",
+    "category": "logo",
+    "file": "logos/gbc-symbol-reversed",
+    "width": 256,
+    "height": 256,
+    "pngWidth": 1800,
+    "description": "Standalone mark; sanctuary wall, pulpit face and merchandise"
+  },
+  {
+    "name": "Grafton Baptist Church / micro / primary",
+    "category": "logo",
+    "file": "logos/gbc-micro-primary",
+    "width": 64,
+    "height": 64,
+    "pngWidth": 512,
+    "description": "Simplified mark; favicon and very small digital use"
+  },
+  {
+    "name": "Grafton Baptist Church / micro / forest",
+    "category": "logo",
+    "file": "logos/gbc-micro-forest",
+    "width": 64,
+    "height": 64,
+    "pngWidth": 512,
+    "description": "Simplified mark; favicon and very small digital use"
+  },
+  {
+    "name": "Grafton Baptist Church / micro / navy",
+    "category": "logo",
+    "file": "logos/gbc-micro-navy",
+    "width": 64,
+    "height": 64,
+    "pngWidth": 512,
+    "description": "Simplified mark; favicon and very small digital use"
+  },
+  {
+    "name": "Grafton Baptist Church / micro / black",
+    "category": "logo",
+    "file": "logos/gbc-micro-black",
+    "width": 64,
+    "height": 64,
+    "pngWidth": 512,
+    "description": "Simplified mark; favicon and very small digital use"
+  },
+  {
+    "name": "Grafton Baptist Church / micro / white",
+    "category": "logo",
+    "file": "logos/gbc-micro-white",
+    "width": 64,
+    "height": 64,
+    "pngWidth": 512,
+    "description": "Simplified mark; favicon and very small digital use"
+  },
+  {
+    "name": "Grafton Baptist Church / micro / reversed",
+    "category": "logo",
+    "file": "logos/gbc-micro-reversed",
+    "width": 64,
+    "height": 64,
+    "pngWidth": 512,
+    "description": "Simplified mark; favicon and very small digital use"
+  },
+  {
+    "name": "Grafton Baptist Church / horizontal / primary",
+    "category": "logo",
+    "file": "logos/gbc-horizontal-primary",
+    "width": 1080,
+    "height": 260,
+    "pngWidth": 1800,
+    "description": "Primary signature; website, letterhead and general signage"
+  },
+  {
+    "name": "Grafton Baptist Church / horizontal / forest",
+    "category": "logo",
+    "file": "logos/gbc-horizontal-forest",
+    "width": 1080,
+    "height": 260,
+    "pngWidth": 1800,
+    "description": "Primary signature; website, letterhead and general signage"
+  },
+  {
+    "name": "Grafton Baptist Church / horizontal / navy",
+    "category": "logo",
+    "file": "logos/gbc-horizontal-navy",
+    "width": 1080,
+    "height": 260,
+    "pngWidth": 1800,
+    "description": "Primary signature; website, letterhead and general signage"
+  },
+  {
+    "name": "Grafton Baptist Church / horizontal / black",
+    "category": "logo",
+    "file": "logos/gbc-horizontal-black",
+    "width": 1080,
+    "height": 260,
+    "pngWidth": 1800,
+    "description": "Primary signature; website, letterhead and general signage"
+  },
+  {
+    "name": "Grafton Baptist Church / horizontal / white",
+    "category": "logo",
+    "file": "logos/gbc-horizontal-white",
+    "width": 1080,
+    "height": 260,
+    "pngWidth": 1800,
+    "description": "Primary signature; website, letterhead and general signage"
+  },
+  {
+    "name": "Grafton Baptist Church / horizontal / reversed",
+    "category": "logo",
+    "file": "logos/gbc-horizontal-reversed",
+    "width": 1080,
+    "height": 260,
+    "pngWidth": 1800,
+    "description": "Primary signature; website, letterhead and general signage"
+  },
+  {
+    "name": "Grafton Baptist Church / compact / primary",
+    "category": "logo",
+    "file": "logos/gbc-compact-primary",
+    "width": 800,
+    "height": 300,
+    "pngWidth": 1800,
+    "description": "Compact two-line name; doorway and narrow signboards"
+  },
+  {
+    "name": "Grafton Baptist Church / compact / forest",
+    "category": "logo",
+    "file": "logos/gbc-compact-forest",
+    "width": 800,
+    "height": 300,
+    "pngWidth": 1800,
+    "description": "Compact two-line name; doorway and narrow signboards"
+  },
+  {
+    "name": "Grafton Baptist Church / compact / navy",
+    "category": "logo",
+    "file": "logos/gbc-compact-navy",
+    "width": 800,
+    "height": 300,
+    "pngWidth": 1800,
+    "description": "Compact two-line name; doorway and narrow signboards"
+  },
+  {
+    "name": "Grafton Baptist Church / compact / black",
+    "category": "logo",
+    "file": "logos/gbc-compact-black",
+    "width": 800,
+    "height": 300,
+    "pngWidth": 1800,
+    "description": "Compact two-line name; doorway and narrow signboards"
+  },
+  {
+    "name": "Grafton Baptist Church / compact / white",
+    "category": "logo",
+    "file": "logos/gbc-compact-white",
+    "width": 800,
+    "height": 300,
+    "pngWidth": 1800,
+    "description": "Compact two-line name; doorway and narrow signboards"
+  },
+  {
+    "name": "Grafton Baptist Church / compact / reversed",
+    "category": "logo",
+    "file": "logos/gbc-compact-reversed",
+    "width": 800,
+    "height": 300,
+    "pngWidth": 1800,
+    "description": "Compact two-line name; doorway and narrow signboards"
+  },
+  {
+    "name": "Grafton Baptist Church / stacked / primary",
+    "category": "logo",
+    "file": "logos/gbc-stacked-primary",
+    "width": 640,
+    "height": 600,
+    "pngWidth": 1800,
+    "description": "Centred signature; entrance panels and portrait formats"
+  },
+  {
+    "name": "Grafton Baptist Church / stacked / forest",
+    "category": "logo",
+    "file": "logos/gbc-stacked-forest",
+    "width": 640,
+    "height": 600,
+    "pngWidth": 1800,
+    "description": "Centred signature; entrance panels and portrait formats"
+  },
+  {
+    "name": "Grafton Baptist Church / stacked / navy",
+    "category": "logo",
+    "file": "logos/gbc-stacked-navy",
+    "width": 640,
+    "height": 600,
+    "pngWidth": 1800,
+    "description": "Centred signature; entrance panels and portrait formats"
+  },
+  {
+    "name": "Grafton Baptist Church / stacked / black",
+    "category": "logo",
+    "file": "logos/gbc-stacked-black",
+    "width": 640,
+    "height": 600,
+    "pngWidth": 1800,
+    "description": "Centred signature; entrance panels and portrait formats"
+  },
+  {
+    "name": "Grafton Baptist Church / stacked / white",
+    "category": "logo",
+    "file": "logos/gbc-stacked-white",
+    "width": 640,
+    "height": 600,
+    "pngWidth": 1800,
+    "description": "Centred signature; entrance panels and portrait formats"
+  },
+  {
+    "name": "Grafton Baptist Church / stacked / reversed",
+    "category": "logo",
+    "file": "logos/gbc-stacked-reversed",
+    "width": 640,
+    "height": 600,
+    "pngWidth": 1800,
+    "description": "Centred signature; entrance panels and portrait formats"
+  },
+  {
+    "name": "Grafton Baptist Church / fascia / primary",
+    "category": "logo",
+    "file": "logos/gbc-fascia-primary",
+    "width": 1800,
+    "height": 260,
+    "pngWidth": 2400,
+    "description": "Single-line full name; long external building fascia"
+  },
+  {
+    "name": "Grafton Baptist Church / fascia / forest",
+    "category": "logo",
+    "file": "logos/gbc-fascia-forest",
+    "width": 1800,
+    "height": 260,
+    "pngWidth": 2400,
+    "description": "Single-line full name; long external building fascia"
+  },
+  {
+    "name": "Grafton Baptist Church / fascia / navy",
+    "category": "logo",
+    "file": "logos/gbc-fascia-navy",
+    "width": 1800,
+    "height": 260,
+    "pngWidth": 2400,
+    "description": "Single-line full name; long external building fascia"
+  },
+  {
+    "name": "Grafton Baptist Church / fascia / black",
+    "category": "logo",
+    "file": "logos/gbc-fascia-black",
+    "width": 1800,
+    "height": 260,
+    "pngWidth": 2400,
+    "description": "Single-line full name; long external building fascia"
+  },
+  {
+    "name": "Grafton Baptist Church / fascia / white",
+    "category": "logo",
+    "file": "logos/gbc-fascia-white",
+    "width": 1800,
+    "height": 260,
+    "pngWidth": 2400,
+    "description": "Single-line full name; long external building fascia"
+  },
+  {
+    "name": "Grafton Baptist Church / fascia / reversed",
+    "category": "logo",
+    "file": "logos/gbc-fascia-reversed",
+    "width": 1800,
+    "height": 260,
+    "pngWidth": 2400,
+    "description": "Single-line full name; long external building fascia"
+  },
+  {
+    "name": "Grafton Baptist Church / roundel / primary",
+    "category": "logo",
+    "file": "logos/gbc-roundel-primary",
+    "width": 400,
+    "height": 400,
+    "pngWidth": 1800,
+    "description": "Contained symbol; avatar, sticker and circular signage"
+  },
+  {
+    "name": "Grafton Baptist Church / roundel / forest",
+    "category": "logo",
+    "file": "logos/gbc-roundel-forest",
+    "width": 400,
+    "height": 400,
+    "pngWidth": 1800,
+    "description": "Contained symbol; avatar, sticker and circular signage"
+  },
+  {
+    "name": "Grafton Baptist Church / roundel / navy",
+    "category": "logo",
+    "file": "logos/gbc-roundel-navy",
+    "width": 400,
+    "height": 400,
+    "pngWidth": 1800,
+    "description": "Contained symbol; avatar, sticker and circular signage"
+  },
+  {
+    "name": "Grafton Baptist Church / roundel / black",
+    "category": "logo",
+    "file": "logos/gbc-roundel-black",
+    "width": 400,
+    "height": 400,
+    "pngWidth": 1800,
+    "description": "Contained symbol; avatar, sticker and circular signage"
+  },
+  {
+    "name": "Grafton Baptist Church / roundel / white",
+    "category": "logo",
+    "file": "logos/gbc-roundel-white",
+    "width": 400,
+    "height": 400,
+    "pngWidth": 1800,
+    "description": "Contained symbol; avatar, sticker and circular signage"
+  },
+  {
+    "name": "Grafton Baptist Church / roundel / reversed",
+    "category": "logo",
+    "file": "logos/gbc-roundel-reversed",
+    "width": 400,
+    "height": 400,
+    "pngWidth": 1800,
+    "description": "Contained symbol; avatar, sticker and circular signage"
+  },
+  {
+    "name": "Entrance / over-door panel",
+    "category": "application",
+    "file": "signage/entrance-panel",
+    "width": 1600,
+    "height": 650,
+    "pngWidth": 1600,
+    "description": "Proportion 32:13. Name and welcome only; no changing service times."
+  },
+  {
+    "name": "Long exterior fascia",
+    "category": "application",
+    "file": "signage/fascia-panel",
+    "width": 2400,
+    "height": 440,
+    "pngWidth": 3600,
+    "description": "Proportion 60:11. Full name on one line for a long wall or fascia."
+  },
+  {
+    "name": "Sanctuary / above-pulpit signature",
+    "category": "application",
+    "file": "signage/sanctuary-wall",
+    "width": 1000,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Centred mark with optional small identifier. Transparent background."
+  },
+  {
+    "name": "Pulpit face / symbol only",
+    "category": "application",
+    "file": "signage/pulpit-face",
+    "width": 500,
+    "height": 620,
+    "pngWidth": 1600,
+    "description": "Quiet, simplified application with no small lettering. Transparent background."
+  },
+  {
+    "name": "Roadside / portrait panel",
+    "category": "application",
+    "file": "signage/roadside-panel",
+    "width": 900,
+    "height": 1500,
+    "pngWidth": 1600,
+    "description": "Proportion 3:5. Address from supplied church material. Installation position needs approval."
+  },
+  {
+    "name": "Wayfinding / entrance left",
+    "category": "application",
+    "file": "signage/wayfinding-left",
+    "width": 1500,
+    "height": 440,
+    "pngWidth": 1600,
+    "description": "Select direction only after a site walk. Never mirror the logo itself."
+  },
+  {
+    "name": "Wayfinding / entrance right",
+    "category": "application",
+    "file": "signage/wayfinding-right",
+    "width": 1500,
+    "height": 440,
+    "pngWidth": 1600,
+    "description": "Select direction only after a site walk. Never mirror the logo itself."
+  },
+  {
+    "name": "Community Space / endorsed ministry",
+    "category": "application",
+    "file": "signage/community-space-panel",
+    "width": 1600,
+    "height": 660,
+    "pngWidth": 1600,
+    "description": "Church identity retained without creating an unrelated sub-brand."
+  },
+  {
+    "name": "Social avatar / navy",
+    "category": "application",
+    "file": "digital/avatar-navy",
+    "width": 1080,
+    "height": 1080,
+    "pngWidth": 1080,
+    "description": "Square with circular crop safety. Use symbol, never tiny full church name."
+  },
+  {
+    "name": "Social avatar / cream",
+    "category": "application",
+    "file": "digital/avatar-cream",
+    "width": 1080,
+    "height": 1080,
+    "pngWidth": 1080,
+    "description": "Square with circular crop safety. Use symbol, never tiny full church name."
+  },
+  {
+    "name": "Sermon podcast cover",
+    "category": "application",
+    "file": "digital/sermon-podcast-cover",
+    "width": 3000,
+    "height": 3000,
+    "pngWidth": 3000,
+    "description": "3000 x 3000 RGB cover, no platform logos or fabricated episode details."
+  },
+  {
+    "name": "Projection / holding slide",
+    "category": "application",
+    "file": "digital/presentation-holding-slide",
+    "width": 1920,
+    "height": 1080,
+    "pngWidth": 1920,
+    "description": "16:9 welcome slide; restrained lighting and no moving elements."
+  },
+  {
+    "name": "Video / transparent lower third",
+    "category": "application",
+    "file": "digital/video-lower-third",
+    "width": 1920,
+    "height": 300,
+    "pngWidth": 1920,
+    "description": "1920px transparent PNG and vector source. Church identification only."
+  },
+  {
+    "name": "Email signature / logo only",
+    "category": "application",
+    "file": "digital/email-signature-logo",
+    "width": 720,
+    "height": 280,
+    "pngWidth": 1440,
+    "description": "Use displayed width 260-360px. Add live contact text separately for accessibility."
+  },
+  {
+    "name": "Letterhead / A4 proportion",
+    "category": "application",
+    "file": "print/letterhead",
+    "width": 794,
+    "height": 1123,
+    "pngWidth": 1600,
+    "description": "Scale PDF to A4 at print. Blank correspondence area; no invented email or phone."
+  },
+  {
+    "name": "Welcome or business card / front",
+    "category": "application",
+    "file": "print/card-front",
+    "width": 1050,
+    "height": 600,
+    "pngWidth": 1600,
+    "description": "Proportion 7:4. RGB concept; printer supplies final trim, bleed and colour profile."
+  },
+  {
+    "name": "Welcome or business card / back",
+    "category": "application",
+    "file": "print/card-back",
+    "width": 1050,
+    "height": 600,
+    "pngWidth": 1600,
+    "description": "No time, website, QR code or email until operational details are confirmed."
+  },
+  {
+    "name": "Over the door",
+    "category": "mockup",
+    "file": "applications/01-over-the-door",
+    "width": 1600,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Illustrative setting, not a measured representation of the church."
+  },
+  {
+    "name": "Above the pulpit",
+    "category": "mockup",
+    "file": "applications/02-above-the-pulpit",
+    "width": 1600,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Illustrative setting, not a measured representation of the church."
+  },
+  {
+    "name": "Across the building",
+    "category": "mockup",
+    "file": "applications/03-building-fascia",
+    "width": 1600,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Illustrative setting, not a measured representation of the church."
+  },
+  {
+    "name": "Street identification",
+    "category": "mockup",
+    "file": "applications/04-street-identification",
+    "width": 1600,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Illustrative setting, not a measured representation of the church."
+  },
+  {
+    "name": "Finding the entrance",
+    "category": "mockup",
+    "file": "applications/05-wayfinding",
+    "width": 1600,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Illustrative setting, not a measured representation of the church."
+  },
+  {
+    "name": "Digital identity",
+    "category": "mockup",
+    "file": "applications/06-digital-family",
+    "width": 1600,
+    "height": 1000,
+    "pngWidth": 1600,
+    "description": "Illustrative setting, not a measured representation of the church."
+  },
+  {
+    "name": "Corner Cross / identity concept",
+    "category": "board",
+    "file": "boards/01-concept",
+    "width": 1800,
+    "height": 1240,
+    "pngWidth": 2400,
+    "description": ""
+  },
+  {
+    "name": "Corner Cross / complete logo family",
+    "category": "board",
+    "file": "boards/02-logo-family",
+    "width": 1800,
+    "height": 1640,
+    "pngWidth": 2400,
+    "description": ""
+  },
+  {
+    "name": "Corner Cross / geometry and usage",
+    "category": "board",
+    "file": "boards/03-construction",
+    "width": 1800,
+    "height": 1200,
+    "pngWidth": 2400,
+    "description": ""
+  },
+  {
+    "name": "Colour and minimum-size references",
+    "category": "board",
+    "file": "boards/04-colour-and-size",
+    "width": 1800,
+    "height": 1260,
+    "pngWidth": 2400,
+    "description": ""
+  },
+  {
+    "name": "Production handoff and use-case selector",
+    "category": "board",
+    "file": "boards/05-production-handoff",
+    "width": 1800,
+    "height": 1320,
+    "pngWidth": 2400,
+    "description": ""
+  }
+]
